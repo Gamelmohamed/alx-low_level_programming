@@ -11,7 +11,7 @@
 
 int main(void)
 {
-chr quo[] = "and that pice of art is useful\" - Dora Korpar, 2015-10-19\n",stdout;
+char quo[] = "and that pice of art is useful\" - Dora Korpar, 2015-10-19\n",stdout;
 
 	write(1, quo, 59);
 	return (1);
