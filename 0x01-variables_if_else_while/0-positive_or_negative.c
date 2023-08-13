@@ -5,11 +5,10 @@
 /**
  * main - entry point
  *
- * Description: false or true validation
+ * Description: false or ture validation
  *
- * Return: 0 (success)
+ * Return : 0 (success)
 */
-
 int main(void)
 {
 	int n;
@@ -18,8 +17,8 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 		printf("%i is positive\n", n);
-	else if (n == 0)
-		printf("%i is positive\n", n);
+	else if	(n == 0)
+		printf("%i is zero\n", n);
 	else
 		printf("%i is positive\n", n);
 	return (0);
