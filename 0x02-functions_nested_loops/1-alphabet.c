@@ -3,6 +3,8 @@
 
 	/**
 	 * print_alphabet - print all alphabet in lowercase
+	 *
+	 * description: its c programing language
 	 */
 
 
